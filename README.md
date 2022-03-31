@@ -1,6 +1,3 @@
-### Hi there 🦾
-Welcome to my profile; just playing with stuff here :)
-
 ![](https://www.codewars.com/users/v4ld3r5/badges/micro)
 
 - 🔭 I’m currently working on: Terraform, Azure, K8s
