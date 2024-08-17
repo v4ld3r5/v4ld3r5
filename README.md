@@ -14,4 +14,4 @@ When not in front of a computer I'd be creating music or training 🎸🏋️‍
 - 😄 Pronouns: he/him
 ___
 
-![Codewars](https://www.codewars.com/users/v4ld3r5/badges/small)
+![Codewars](https://github.r2v.ch/codewars?user=v4ld3r5&stroke=blue)
