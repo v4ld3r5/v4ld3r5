@@ -3,7 +3,7 @@
 
 I'm a Site Reliability Engineer at Algolia and work on Linux systems and K8s administration, maintaining Infrastructure as Code and Configuration Management codebases. My day-to-day is focused on operations but I also develop in several languages for our tooling, like Bash, Python, and Go.
 
-I'm a seasoned Systems Engineer but I'm also interested in Software Engineering. In my spare time I work on coding, the scopes that motivate me the most are tooling, distributed systems, and audio programming. I have a growing interest in Swift development for Apple products and Machine Learning as they are topics closely related to my motivations.
+I'm a seasoned systems engineer interested in software engineering. In my spare time I work on coding, the scopes that motivate me the most are tooling, distributed systems, audio programming, and retro videogame consoles. I am interested in Swift development for Apple products and Machine Learning as they are closely related to my motivations.
 
 When not in front of a computer I'd be creating music or training 🎸🏋️‍♂️.
 
