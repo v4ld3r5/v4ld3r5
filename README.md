@@ -12,4 +12,4 @@ When not in front of a computer I'd be creating music or training 🎸🏋️‍
 - 🌱 I’m currently (re)learning C and Rust, and can't deny an interest in Assembly 😅
 ___
 
-![Codewars](https://github.r2v.ch/codewars?user=v4ld3r5&stroke=blue)
+![Codewars](https://www.codewars.com/users/v4ld3r5/badges/micro)
