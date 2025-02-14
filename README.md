@@ -4,6 +4,7 @@ I'm a Site Reliability Engineer and work on Linux and K8s systems administration
 
 I'm a seasoned systems engineer interested in software design and architecture.
 The scopes that motivate me the most are tooling, distributed systems, low-level / embedded / systems code, and retro videogame consoles 👾.
+
 My goals in 2025 include:
 - Achieving a fluent level of Python, Go and Rust
 - Master K8s as cluster operator and platform developer
