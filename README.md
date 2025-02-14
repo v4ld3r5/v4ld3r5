@@ -10,10 +10,6 @@ My goals in 2025 include:
 - Master K8s as cluster operator and platform developer
 
 When not in front of a computer I'd be creating music or training 🎸🏋️‍♂️.
-
-- 🧐 Interested in Linux, FOSS, systems / low-level programming
-- 🔭 I’m currently working on improving my Software Engineering skills
-- 🌱 I’m currently (re)learning C, Go and Rust, and can't deny an interest in Assembly 😅
 ___
 
 ![Codewars](https://www.codewars.com/users/v4ld3r5/badges/micro)
