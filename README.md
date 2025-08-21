@@ -3,7 +3,7 @@
 I'm a Site Reliability Engineer and work on Linux and K8s systems administration, maintaining Infrastructure as Code and Configuration Management codebases. My day-to-day is focused on operations but I also develop in several languages for our tooling, like Terraform, Bash, Python, and Go.
 
 I'm a seasoned systems engineer interested in software design and architecture.
-The scopes that motivate me the most are tooling, distributed systems, low-level / embedded / systems code, and retro videogame consoles 👾.
+The scopes that motivate me the most are tooling, distributed systems, low-level / embedded / systems code, and retro videogame consoles 👾
 
 My focus points at the moment are:
 - Achieving a fluent level of Python, Go and Rust
